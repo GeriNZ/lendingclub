@@ -1,5 +1,5 @@
 # Lendal Case Study
-> Project by Beng Beng Cheong and Geraldine Bengsch
+> Project by Beng Cheong and Geraldine Bengsch
 > This project uses EDA to identify common types of risks found in consumer finance companies lending loans:
 > - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
 > - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
@@ -45,7 +45,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@GeriNZ] and [@] - feel free to contact us!
+Created by [@GeriNZ] and [@bengcheo] - feel free to contact us!
 
 
 <!-- Optional -->
