@@ -11,6 +11,7 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
+
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
@@ -22,7 +23,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
+- Using a loan to pay off another loan is the largest factor in why people default on their loan
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
@@ -31,9 +32,11 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+python_version = "3.10"
+- numpy - version 1.21.5
+- pandas - version 1.3.5
+- matplotlib - version 3.5.1
+- seaborn - version 0.11.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
