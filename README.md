@@ -11,18 +11,25 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
+
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+![burning money](img/jp-valery-blOLCO2K4M0-unsplash.jpg)
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- **General information:** A loan describes money that is being lend to an individual or an organisation. The loan recipient receives the money with the implication that the money will be paid back over time. When lend through a financial institution, the recipient usually will be liable to pay interest on the amount of money received.
+
+- **Background:** There are many reasons why a person may need to lend money. A common reason is the consolidation of debt, that is, combining debt from various creditors into a single amount. Other common reasons include large purchases, such as a car or property purchase, or starting a business.
+
+- **Business problem:**
+Banks can earn money through lending money out to their customers and the compensation of a certain interest rate. However, this assumes that the debtors will indeed repay their loan in full. A borrower may find themselves unable to make payments, meaning that the loan will default. As a result, the bank looses not only the principal amount, but also the interest on the money. Banks need to make a decision on who they lend money to. This usually occurs based on data from previous loan recipients.
+
+- **Dataset:** The dataset consists of 111 columns and 39717 entries. Not all columns contain data, with a total number of 2263364 missing entries.
+
+
 
 ## Conclusions
-- Conclusion 1 from the analysis
+- Using a loan to pay off another loan in form of debt consolidation is the largest factor in why people default on their loan
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
@@ -31,11 +38,13 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- python - version 3.10
+- numpy - version 1.21.5
+- pandas - version 1.3.5
+- matplotlib - version 3.5.1
+- seaborn - version 0.11.2
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 
 ## Acknowledgements
 Give credit here.
