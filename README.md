@@ -1,5 +1,5 @@
 # Lendal Case Study
-> Project by Beng Cheong and Geraldine Bengsch
+> Project by Beng Cheong and Geraldine Bengsch (First Upgrad case study)
 > This project uses EDA to identify common types of risks found in consumer finance companies lending loans:
 > - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
 > - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
@@ -11,8 +11,6 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 ![burning money](img/jp-valery-blOLCO2K4M0-unsplash.jpg)
@@ -29,12 +27,13 @@ Banks can earn money through lending money out to their customers and the compen
 
 
 ## Conclusions
-- Using a loan to pay off another loan in form of debt consolidation is the largest factor in why people default on their loan
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Please see the notebook for more detailed insights.
+1. Purpose of the loan  does not matter. 
+2. Borrowers were **more likely to default on their loans if interest rates at time of borrowing were high**. 
+3. Borrowers are **more likely to default when term was 60 months and they were below Grade B**. 
+4. The amount of funds provided by investors is an import factor, as those whose who were **able to pay off fully had help from investors**
+5. **Annual income is not an indicator** of whether the loan will be paid.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
@@ -45,20 +44,7 @@ Banks can earn money through lending money out to their customers and the compen
 - seaborn - version 0.11.2
 
 
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
 Created by [@GeriNZ] and [@bengcheo] - feel free to contact us!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
