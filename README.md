@@ -57,6 +57,7 @@ Please see the notebook and Presentation slides for more detailed insights.
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.5-informational?style=flat&logoColor=white&color=2bbc8a)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5.1-informational?style=flat&logoColor=white&color=2bbc8a)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-informational?style=flat&logoColor=white&color=2bbc8a)
+![Plotly](https://img.shields.io/badge/Plotly-5.5.0-informational?style=flat&logoColor=white&color=2bbc8a)
 ![Kaleido](https://img.shields.io/badge/Kaleido-0.2.1.post1-informational?style=flat&logoColor=white&color=2bbc8a)
 
 
