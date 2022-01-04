@@ -1,4 +1,4 @@
-# Lendal Case Study
+# Lending Club Case Study
 > Project by Beng Cheong and Géraldine Bengsch (First Upgrad case study) <br>
 >
 > This project uses EDA to identify common types of risks found in consumer finance companies lending loans:
